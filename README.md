@@ -40,7 +40,7 @@ In the study, a phage-specific prediction method was proposed, PhaABPpred, to pr
   
   - `Python` >= 3.8
   
-- Download `PhaABPpred-main.zip`to your computer
+- Download `PhaABPpred-main.zip` for accessing Releases button to your computer
 
 - open the dir and install `requirements.txt` with `pip`
 
